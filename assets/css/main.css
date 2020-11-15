@@ -27,6 +27,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #383340;
+  background-color: #f8f6f6;
 }
 
 a {
@@ -2851,4 +2852,8 @@ hr {
   .comment-list .children {
     padding: 20px 0 0 40px;
   }
+}
+
+.issue {
+  padding-bottom: 0 !important;
 }
